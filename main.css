@@ -1,0 +1,40 @@
+ .title {
+    font-size: 24px;
+    color: black;
+    font-weight: lighter;
+}
+h3 {
+  text-transform: uppercase;
+  color: red;
+  font-weight: bold;
+  font-size: 14px;
+}
+ .page-wrapper  {
+    border-width: 1px;
+    border-radius: 15px;
+    border-style: solid;
+    margin: 0 auto;
+    width: 75%;
+}
+footer {
+  color: darkblue;
+  font-size: .75res;
+  background-color: green;
+}
+ .design-name, .designer-name {
+   color: lightblue;
+   text-decoration: underline;
+ }
+ p {
+   font-size: 16 px;
+   color: black;
+ }
+  .summary {
+    font-size: 1.5res;
+  }
+ .summary, .body, .section, .footer, .aside {
+   border-width: 1px;
+   border-bottom: solid;
+   color: lightgrey;
+
+ }
